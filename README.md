@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [RottenMilk]
+# 👋 Hi there, I'm RottenMilk
 
 > **"문제를 해결하는 개발자, 경험을 설계하는 사람"**
 
