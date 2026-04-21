@@ -81,15 +81,6 @@
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="[블로그 링크]"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  <a href="[LinkedIn 링크]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
 ## 🧠 Dev Philosophy
 
 ```txt
