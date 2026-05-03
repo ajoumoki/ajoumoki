@@ -26,10 +26,7 @@
 
 ---
 
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=\[YourGitHub]\&theme=tokyo-night)
-
+![stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true&theme=tokyonight)
 ---
 
 ## 🎯 Goal
