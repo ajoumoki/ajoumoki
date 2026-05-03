@@ -26,7 +26,8 @@
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=ajoumok&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=ajoumoki&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=ajoumoki&show_icons=true&theme=tokyonight)
 
 ---
 
