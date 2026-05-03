@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&text=My%20Portfolio&fontSize=40"/>
 # 👋 Hi there, I'm RottenMilk
 
 > **"문제를 해결하는 개발자, 경험을 설계하는 사람"**
