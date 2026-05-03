@@ -26,6 +26,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/ajoumoki/ajoumoki/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajoumoki)](https://solved.ac/ajoumoki/)
 
 ---
