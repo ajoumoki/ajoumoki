@@ -33,45 +33,6 @@
 
 ---
 
-## 🧠 Featured Projects
-
-### 🔥 [Project Name 1]
-
-> 한 줄 설명: **이 프로젝트가 해결하는 문제**
-
-* 주요 기능:
-
-  * 기능 1
-  * 기능 2
-* 사용 기술: `React`, `Node.js`, `MongoDB`
-* 👉 [GitHub 링크](https://github.com/your-repo)
-
----
-
-### 🚀 [Project Name 2]
-
-> 한 줄 설명: **왜 만든 프로젝트인지**
-
-* 주요 기능:
-
-  * 기능 1
-  * 기능 2
-* 사용 기술: `Python`, `FastAPI`
-* 👉 [GitHub 링크](https://github.com/your-repo)
-
----
-
-## 🧩 Problem Solving
-
-* 🥇 알고리즘: **[백준 / LeetCode 성과]**
-* 🧠 해결 방식:
-
-  * 문제를 구조화하고
-  * 최적화 전략을 적용하며
-  * 유지보수를 고려한 코드 작성
-
----
-
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=\[YourGitHub]\&theme=tokyo-night)
@@ -80,8 +41,8 @@
 
 ## 🎯 Goal
 
-* 📌 단기 목표: **[예: 취업, 특정 기술 mastering]**
-* 🚀 장기 목표: **[예: 서비스 런칭, 창업]**
+* 📌 단기 목표: **[유니티 배우기]**
+* 🚀 장기 목표: **[취업]**
 
 ---
 
