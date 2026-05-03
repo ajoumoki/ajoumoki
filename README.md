@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 # 👋 Hi there, I'm RottenMilk
 
 > **"문제를 해결하는 개발자, 경험을 설계하는 사람"**
