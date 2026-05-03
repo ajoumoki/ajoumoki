@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98FB98,50:66CDAA,100:2E8B57&height=200&text=My%20Portfolio&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccffcc,50:99ffcc,100:66cc99&height=200&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=2f4f4f"/>
 # 👋 Hi there, I'm RottenMilk
 
 > **"문제를 해결하는 개발자, 경험을 설계하는 사람"**
