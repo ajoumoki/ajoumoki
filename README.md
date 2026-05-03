@@ -26,13 +26,7 @@
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=ajoumoki)
-&show_icons=true
-&count_private=true
-&title_color=66cc99
-&icon_color=66cc99
-&text_color=2f4f4f
-&bg_color=ffffff)
+![stats](https://github-readme-stats.vercel.app/api?username=ajoumoki&show_icons=true&count_private=true&title_color=66cc99&icon_color=66cc99&text_color=2f4f4f&bg_color=ffffff)
 
 ---
 
