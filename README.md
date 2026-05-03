@@ -26,7 +26,7 @@
 
 ---
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajoumoki&layout=compact&title_color=66cc99&text_color=2f4f4f&bg_color=ffffff)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajoumoki)](https://github.com/ajoumoki/github-readme-stats)
 
 ---
 
