@@ -25,14 +25,6 @@
 [1. SwipeCar](https://github.com/ajoumoki/SwipeCar)
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHub]&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHub]&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Activity Graph
 
