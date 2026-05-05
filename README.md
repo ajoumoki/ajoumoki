@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccffcc,50:99ffcc,100:66cc99&height=200&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=2f4f4f"/>
-# 👋 Hi there, I'm RottenMilk
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f260,50:0575e6,100:021b79&height=150&text=ROTTENMILK&fontSize=50&fontColor=000000&animation=fadeIn"/>
+</p>
 
-> **"문제를 해결하는 개발자, 경험을 설계하는 사람"**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0:00f260,50:0575e6,100:021b79&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+build+cool+stuff;Stay+hungry!"/>
+</p>
 
 <br/>
 
