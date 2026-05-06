@@ -29,6 +29,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajoumoki)](https://solved.ac/ajoumoki/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajoumoki&show_icons=true&theme=dark)
+
 ---
 
 ##  Goal
