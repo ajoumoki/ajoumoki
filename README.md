@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=0575e6&center=true&vCenter=true&width=650&lines=Code.+Break.+Repeat.;Think.+Code.+Create.;Still+learning...;Stay+hungry+🔥"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=0575e6&center=true&vCenter=true&width=650&lines=Code.+Break.+Repeat.;Think.+Code.+Create.;Still+learning...;Stay+hungry!"/>
 </p>
 
 ## About Me
