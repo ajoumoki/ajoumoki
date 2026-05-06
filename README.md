@@ -27,7 +27,12 @@
 
 ---
 
+### Status Badge
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajoumoki)](https://solved.ac/ajoumoki/)
+
+---
+### Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajoumoki&show_icons=true&theme=ocean_dark"/>
 
