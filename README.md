@@ -23,8 +23,8 @@
 ---
 
 ### Unity Project
-![1. SwipeCar](https://github.com/ajoumoki/SwipeCar)
-![2. CatEscape](https://github.com/ajoumoki/CatEscape)
+*  [1. SwipeCar](https://github.com/ajoumoki/SwipeCar)
+*  [2. CatEscape](https://github.com/ajoumoki/CatEscape)
 
 ---
 
