@@ -24,7 +24,9 @@
 
 ### Unity Project
 *  [1. SwipeCar](https://github.com/ajoumoki/SwipeCar)
+*  설명 :  화면을 스와이프해서 자동차를 깃발에 가깝게 보내는 게임입니다
 *  [2. CatEscape](https://github.com/ajoumoki/CatEscape)
+*  설명 : 위에서 날라오는 화살표를 고양이가 피하는 게임 입니다
 
 ---
 ### Status Badge
