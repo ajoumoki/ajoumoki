@@ -11,7 +11,7 @@
 *  현재: **student**
 *  관심 분야: **Unity**
 *  연락: **bda07-s250215@gclass.ice.go.kr**
-*  한 줄 소개: **I'm Rottenmilk!**
+*  한 줄 소개: **I'm a Rottenmilk!**
 
 ---
 
