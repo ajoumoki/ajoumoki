@@ -35,7 +35,7 @@
 *  설명 : 고양이를 이동시켜서 깃발에 도달하는 게임입니다
 *  Tech : Unity, C#
 ---
-### Status Badge
+### Status Badge⭐
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajoumoki)](https://solved.ac/ajoumoki/)
 
