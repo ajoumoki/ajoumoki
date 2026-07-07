@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f260,50:0575e6,100:021b79&height=150&text=ROTTENMILK&fontSize=50&fontColor=000000&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f260,50:0575e6,100:021b79&height=150&text=ROTTENMILK&fontSize=60&fontColor=000000&animation=fadeIn"/>
 </p>
 
 <p align="center">
